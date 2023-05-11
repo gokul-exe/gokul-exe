@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Gokul</h1>
 <h3 align="center">A Guy with a computer</h3>
